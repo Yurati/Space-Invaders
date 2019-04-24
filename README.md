@@ -1,7 +1,7 @@
 # Space-Invaders
 Oldschool game Space Invaders as a first programming project made in 2017 after 3 months of learning.
 
-## Language and library
+### Language and library
 Game is fully writen in Python using PyGame library
 
 ### Requirements
@@ -9,7 +9,7 @@ Game is fully writen in Python using PyGame library
 - cx_Freeze
 - Pip
 
-### Installing with Pip
+## Installing with Pip
 Install PyGame
 ```
 pip install pygame
